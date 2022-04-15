@@ -1,1 +1,2 @@
 First file of the local branch.
+Second line of the local branch.
